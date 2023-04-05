@@ -1,0 +1,4 @@
+humidity: very
+population: 0
+moons: -1
+
