@@ -5,3 +5,4 @@ This repository reflects the Carpentries course on git
 - red color, maybe too hot?
 - robots roaming around
 - mariana was here >:)
+- where's mars rover?
